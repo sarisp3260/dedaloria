@@ -1,12 +1,19 @@
-# Dedaloria Game
+# ✨ Dedaloria Game ✨
 
-# Proyecto Unity
+# Proyecto Unity 👾
 
-## Clonar repositorio
-´´´
+# Unity version
+- 2021.3.8f1 LTS
 
+## Clonar repositorio 🚀
+```git
 git clone https://github.com/sarisp3260/dedaloria.git
+```
+# Landing page 📎
 
-´´´
+# Integrantes 🤸
+-
 
-~ Woman Game Jam 2022 ~
+# Agradecimientos 🙆
+
+~ Woman Game Jam 2022 🎮 ~
